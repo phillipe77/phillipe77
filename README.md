@@ -1,4 +1,10 @@
-## Olá, meu nome é Phillipe Linhares!
+## Olá, seja bem-vindo 😄
+
+Meu nome é Phillipe Linhares, sou um entusiasta da Qualidade de Software e tenho o principio de pensar sobre testes além de ferramentas de automação, mas de um pensamento vivo pois testar é uma arte na qual devemos explorar a fonte da qualidade. 
+Possuo também conhecimentos técnicos de Desenvolvimento Web.
+
+
+
 <div align="left">
   <a href="https://github.com/phillipe77">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=phillipe77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
