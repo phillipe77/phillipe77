@@ -1,7 +1,10 @@
 ## Olá, seja bem-vindo 😄
 
 Meu nome é Phillipe Linhares, sou um entusiasta da Qualidade de Software e tenho o principio de pensar sobre testes além de ferramentas de automação, mas de um pensamento vivo pois testar é uma arte na qual devemos explorar a fonte da qualidade. 
+
 Possuo também conhecimentos técnicos de Desenvolvimento Web.
+
+
 
 
 
